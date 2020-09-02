@@ -4,7 +4,7 @@ Projeto desenvolvido no curso programação em javascript do básico ao avançad
 
 # Layout
 
-![Layout do projeto](https://github.com/fabricioig863/repository-search/blob/master/layout/Layout.gif)
+![Layout do projeto](https://github.com/fabricioig863/search-repository/blob/master/layout/Layout.gif)
 
 ## Tecnologias
 
