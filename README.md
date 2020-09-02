@@ -1,6 +1,6 @@
 ## repository-search
 
-Projeto desenvolvido com o entuito de praticar o uso de babel e webpack, conhecimentos adquiridos no curso de programação em javascript do básico ao avançado da geek university na plataforma da Udemy. 
+Projeto desenvolvido no curso programação em javascript do básico ao avançado da Geek University, com o intuito de fixar conhecimentos adquiridos ao longo do curso. 
 
 # Layout
 
